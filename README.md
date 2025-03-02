@@ -1,2 +1,7 @@
-# centralrepotemplate
-template repository for creating a central repo for an org
+# unorthodox studios
+[https://github.com/undhtxstudios](https://github.com/undhtxstudios)
+
+_Experimenting unconventional game design through experiments and small scale games._
+
+---
+
